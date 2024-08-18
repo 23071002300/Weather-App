@@ -6,4 +6,5 @@ Real-Time Data: Integrated API services like OpenWeatherMap to retrieve accurate
 Geolocation Support: Implemented geolocation features, allowing users to automatically fetch weather data based on their current location.
 Forecasting: Included detailed daily and hourly weather forecasts to help users plan ahead.
 Notifications & Alerts: Developed a system for severe weather alerts and notifications to keep users informed of any sudden changes in weather conditions.
+
 #learnfusion
